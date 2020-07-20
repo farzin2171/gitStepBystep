@@ -4,3 +4,5 @@ https://www.youtube.com/watch?v=WBg9mlpzEYU
 2- git restore 
 3- git log 
 4- git checkout master
+5-git checkout -b testing  (create new branch)
+6-
