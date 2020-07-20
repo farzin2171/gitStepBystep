@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=WBg9mlpzEYU
 4- git checkout master
 5-git checkout -b testing  (create new branch)
 6-git merge testing
+7- install git history in visual stoudio code
+8-git remote show origin  (shows origin)
+9- git branch -a (shows all branches)
