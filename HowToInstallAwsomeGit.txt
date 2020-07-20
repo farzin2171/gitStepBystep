@@ -1,0 +1,7 @@
+How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code!
+https://www.youtube.com/watch?v=lu__oGZVT98
+https://www.hanselman.com/blog/HowToMakeAPrettyPromptInWindowsTerminalWithPowerlineNerdFontsCascadiaCodeWSLAndOhmyposh.aspx
+1- get windows terminal 
+ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
+2- get cascadi-code
+https://github.com/microsoft/cascadia-code/releases
