@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=WBg9mlpzEYU
    opens new window
 2- git restore 
 3- git log 
-4
+4- git checkout master
